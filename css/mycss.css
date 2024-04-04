@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+.first {
+	height: 200px;
+	width: auto;
+	background-color: darkcyan;
+}
+.second {
+	height: 200px;
+	width: auto;
+	background-color: crimson;
+}
+.box1 {
+	height: 30px;
+	background-color: darkgrey;
+}
+.box2 {
+	height: 300px;
+	border: 2px solid #D88586;
+}
+.box3 {
+	height: 30px;
+	border: 2px solid #DD87E5;
+}
+.box4 {
+	border: 2px solid #7DE2C3;
+}
+.cbox {
+	border: 5px solid;
+}
+.adiv {
+	height: 50px;
+	background-color: aquamarine;
+}
+.bdiv {
+	height: 50px;
+	background-color: hotpink;
+}
+.cdiv {
+	height: 50px;
+	background-color: yellow;
+}
+.ddiv {
+	height: 50px;
+	background-color: mediumseagreen;
+}
+.ediv {
+	height: 50px;
+	background-color: darkgrey;
+}
+.arow {
+	border: 10px solid black;
+}
